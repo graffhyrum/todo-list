@@ -1,0 +1,18 @@
+.flex-container{
+    display: flex;
+}
+.flex-item{
+    width: 40vw;
+    display: flex;
+    height: 3em;
+    line-height: 3em;
+}
+#task-list{
+    list-style-type: none;
+}
+#input-task{
+
+}
+.completed{
+    text-decoration: line-through;
+}
