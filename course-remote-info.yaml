@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/531589/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sat, 31 Jul 2021 04:00:02 UTC
+update_date: Wed, 20 Oct 2021 17:43:32 UTC
 stages:
 - id: 927
   step: 13194
@@ -19,6 +19,16 @@ stages:
   is_completed: true
 topics:
   0:
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Hexadecimal numbers
+    theory_id: 8788
+  - title: Introduction to UI/UX
+    theory_id: 14603
+  - title: Layout grids
+    theory_id: 14922
+  - title: Interface elements
+    theory_id: 15253
   - title: World Wide Web
     theory_id: 6633
   - title: HyperText Transfer Protocol
@@ -51,8 +61,6 @@ topics:
     theory_id: 8178
   - title: Comments
     theory_id: 7730
-  - title: Colors
-    theory_id: 7973
   - title: Border
     theory_id: 8355
   - title: List style
@@ -65,8 +73,6 @@ topics:
     theory_id: 8325
   - title: Margin and padding
     theory_id: 8346
-  - title: Background
-    theory_id: 11670
   - title: Position
     theory_id: 11581
   - title: Float
@@ -81,6 +87,14 @@ topics:
     theory_id: 11776
   - title: Axis alignment
     theory_id: 11784
+  - title: Colors
+    theory_id: 7973
+  - title: Background
+    theory_id: 11670
+  - title: Web development
+    theory_id: 13931
+  - title: RGB
+    theory_id: 8819
   1:
   - title: Connecting JS to HTML
     theory_id: 7510
@@ -98,6 +112,8 @@ topics:
     theory_id: 8723
   - title: Arrays
     theory_id: 9110
+  - title: JSON
+    theory_id: 6854
   - title: Introduction to JavaScript
     theory_id: 8016
   - title: Overview of the basic program
